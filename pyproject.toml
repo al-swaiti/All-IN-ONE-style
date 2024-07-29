@@ -1,0 +1,14 @@
+[project]
+name = "all-in-one-style"
+description = "all art styles"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/al-swaiti/All-IN-ONE-style"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "abdallaalsw80"
+DisplayName = "All-IN-ONE-style"
+Icon = ""
